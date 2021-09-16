@@ -1,5 +1,5 @@
 # Design "mode select" reinforcement learing
-# 初期化
+# Initialize
 
 ```matlab:Code
 doTraining = false;    % Set "true" for learning.
