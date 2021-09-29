@@ -120,6 +120,23 @@ Raspberry Pi と倒立振子装置"QUBE - Servo 2"を接続し、エクスター
 [強化学習を用いた制御器の実機テスト](../RL/Exp_RL_multi_control_ja_md.md)
 
 
+# 過去バージョン
+
+
+過去のバージョンのファイル一式は、以下から得ることができる。ただし、過去のモデルには、古い時期に作成したサンプルしか含まれていないことに注意すること。
+
+
+
+
+GitHubからクローンしている場合には、以下の該当バージョンに戻すことで、過去バージョンファイルを得ることができる。
+
+
+  
+
+
+R2021a: [v1.0.1](https://github.com/mathworks/Reinforcement-Learning-Inverted-Pendulum-with-QUBE-Servo2/archive/refs/tags/v1.0.1.zip)
+
+
   
 
 

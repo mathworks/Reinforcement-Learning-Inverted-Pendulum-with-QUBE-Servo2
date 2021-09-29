@@ -98,7 +98,7 @@ compare_previous_run(1);
 ### PIL
 
 
-実行する前に、Rasoberry Pi が接続されており、MATLABと通信が確率していることを確認すること。
+実行する前に、Rasoberry Pi が接続されており、MATLABと通信が確立していることを確認すること。
 
 
 

@@ -120,6 +120,23 @@ Connect Raspberry Pi and QUBE - Servo 2, and run the Raspberry Pi with External 
 [Experiment for the controller with RL](/RL/Exp_RL_multi_control_md.md)
 
 
+# Old version
+
+
+A set of files for past versions can be downloaded from the following link. However, the past files only contain samples created in the old days.
+
+
+
+
+If you have cloned from GitHub, the past version can be obtained by reverting to the corresponding version below.
+
+
+  
+
+
+R2021a: [v1.0.1](https://github.com/mathworks/Reinforcement-Learning-Inverted-Pendulum-with-QUBE-Servo2/archive/refs/tags/v1.0.1.zip)
+
+
   
 
 
