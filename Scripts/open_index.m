@@ -4,11 +4,15 @@ function open_index()
 locale = feature('locale');
 lang = split(locale.messages, '.');
 
-%% Open suitable language file.
-if strcmp(lang{1}, 'ja_JP')
-    edit('quanserservo2_control_index_ja');
+%% Open suitable file.
+if exist('quanserservo2_control_index', 'file')
+    if strcmp(lang{1}, 'ja_JP')
+        edit('quanserservo2_control_index_ja');
+    else
+        edit('quanserservo2_control_index');
+    end
 else
-    edit('quanserservo2_control_index');
+
 end
 
 end
