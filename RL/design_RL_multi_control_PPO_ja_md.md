@@ -212,6 +212,7 @@ end
 
 ```matlab:Code
 if doTraining
+    load('RL_multi_trained_agent_swing_up.mat');
     trainingStats = train(agent_select,env,trainOpts);
 else
     load('RL_multi_trained_agent_swing_up.mat');
